@@ -16,7 +16,7 @@ These simulations are to explore the ability of Causal Forests to detect treatme
 
 In this simulations, I examine whether confounding is correctly addressed by local centering. Therefore, I compare Causal Forests with and without this technique. The results can be seen in Table 2 and Figure 6.
 
-### Heterogneiety & Confounding
+### Heterogneity & Confounding
 
 This simulation incorporates both, heterogeneity and confounding. Data is drawn according to Design 3. The result can be seen in Table 3.
 
