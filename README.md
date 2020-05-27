@@ -3,7 +3,7 @@
 
 ### Function Setup
 
-The script named *00_FunctionSetup.R* initialized all functions used for the simulations. This includes the data generating processes, the estimators and the parallelization function.
+The script named *00_FunctionSetup.R* initializes all functions used for the simulations. This includes the data generating processes, the estimators and the parallelization function.
 
 ### Strong Treatment Effect Heterogeneity
 
