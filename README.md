@@ -23,3 +23,4 @@ In this simulation, the implications of honesty are investigated. I compare hone
 
 ### Field Experiment: Reducing Transphobia
 
+This Folder contains the data of the field experiment analyzed in this thesis as well as my code.
