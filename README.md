@@ -26,4 +26,4 @@ In this simulation, the implications of honesty are investigated. I compare hone
 
 ## Code of Field Experiment Analysis
 
-This Folder named *05_FieldExperiment* contains the data of the field experiment analyzed in this thesis as well as my code. It is organized in the same way as explained in my thesis.
+The Folder named *05_FieldExperiment* contains the data of the field experiment analyzed in this thesis as well as my code. It is organized in the same way as explained in my thesis.
