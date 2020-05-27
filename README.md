@@ -1,5 +1,8 @@
-# Machine Learning for Causal Inference
-## Estimating Heterogeneous Treatment Effects with Causal Forests
+# Machine Learning for Causal Inference: Estimating Heterogeneous Treatment Effects with Causal Forests
+
+This Repository contains my Bachelor's thesis (PDF) along with the codes of the simulations I conducted, as well as the code of the analysis of the empirical data. The codes are organized in the same order as they appear in the thesis.
+
+## Code of Simulations
 
 ### Function Setup
 
@@ -21,6 +24,6 @@ This simulation incorporates both, heterogeneity and confounding. Data is drawn 
 
 In this simulation, the implications of honesty are investigated. I compare honest Causal Forests to their adaptive (not honest) analog. Results are shown in Figure 7.
 
-### Field Experiment: Reducing Transphobia
+## Code of Field Experiment Analysis
 
-This Folder contains the data of the field experiment analyzed in this thesis as well as my code.
+This Folder named *05_FieldExperiment* contains the data of the field experiment analyzed in this thesis as well as my code. It is organized in the same way as explained in my thesis.
