@@ -1,6 +1,6 @@
 # Machine Learning for Causal Inference: Estimating Heterogeneous Treatment Effects with Causal Forests
 
-This Repository contains my Bachelor's thesis (PDF) along with the codes of the simulations I conducted, as well as the code of the analysis of the empirical data. The codes are organized in the same order as they appear in the thesis.
+This Repository contains my Bachelor's thesis along with the codes of the simulations I conducted, as well as the code of the analysis of the empirical data. The codes are organized in the same order as they appear in the thesis.
 
 ## Code of Simulations
 
